@@ -1,30 +1,37 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=160&section=header&text=Huang%20Suxiang%20%2F%20%E9%BB%84%E8%8B%8F%E7%BF%94&fontSize=32&fontColor=e2e8f0&animation=fadeIn&fontAlignY=42&desc=Multi-Agent%20%C2%B7%20AI%20Researcher%20%C2%B7%20Builder&descSize=16&descAlignY=62&descAlign=50" width="100%"/>
+<!-- Header -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Huang+Suxiang+%2F+%E9%BB%84%E8%8B%8F%E7%BF%94;Multi-Agent+%C2%B7+AI+Researcher+%C2%B7+Builder;Tianjin+University+%C2%B7+AI+%E5%A4%A7%E5%9B%9B+%E2%86%92+%E4%BF%9D%E7%A0%94)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-<!-- ========== ABOUT ME ========== -->
+---
 
-<table width="100%">
-<tr>
-<td valign="top" width="52%">
+<!-- ========== ABOUT ME ========== -->
 
 ### 👤 About Me
 
 <table>
-<tr><td>🎓 <b>Education</b></td><td>天津大学 · 人工智能 · 大四<br/>已保研至本校直升硕士 🎉</td></tr>
-<tr><td>🔬 <b>Research</b></td><td>Multi-Agent Systems · LLM Orchestration<br/>社会涌现仿真 · AI for Science</td></tr>
-<tr><td>💼 <b>Work</b></td><td>深圳图灵协同科技有限公司<br/>技术顾问 · Tech Consultant</td></tr>
-<tr><td>🛠️ <b>Stack</b></td><td>Python · LangGraph · LangChain<br/>FastAPI · Docker</td></tr>
-<tr><td>🌐 <b>Blog</b></td><td><a href="https://www.zephyrxiang.com">zephyrxiang.com</a></td></tr>
-<tr><td>📬 <b>Contact</b></td><td><a href="mailto:huangsuxiang5@gmail.com">huangsuxiang5@gmail.com</a><br/>WeChat: 13976457218</td></tr>
-</table>
+<tr>
+<td valign="top" width="52%">
+
+| | |
+|---|---|
+| 🎓 **Education** | 天津大学 · 人工智能 · 大四<br/>已保研至本校直升硕士 🎉 |
+| 🔬 **Research** | Multi-Agent Systems · LLM Orchestration<br/>社会涌现仿真 · AI for Science |
+| 💼 **Work** | 深圳图灵协同科技有限公司<br/>技术顾问 · Tech Consultant |
+| 🛠️ **Stack** | Python · LangGraph · LangChain · FastAPI · Docker |
+| 🌐 **Blog** | [zephyrxiang.com](https://www.zephyrxiang.com) |
+| 📬 **Contact** | [huangsuxiang5@gmail.com](mailto:huangsuxiang5@gmail.com) · WeChat: 13976457218 |
 
 </td>
 <td valign="top" width="48%" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=zephyr4123&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zephyr4123&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=zephyr4123&theme=tokyonight&hide_border=true" width="100%"/>
 
 </td>
 </tr>
@@ -74,7 +81,7 @@
 
 **[📖 langgraph-quickstart-chineses](https://github.com/zephyr4123/langgraph-quickstart-chineses)** &nbsp; ![Stars](https://img.shields.io/github/stars/zephyr4123/langgraph-quickstart-chineses?style=flat-square&color=f9ca24)
 
-> 将知名开源项目 `gemini-fullstack-langgraph-quickstart` 后端改造，把 Gemini API 替换为 Qwen API，并补充了完整的**中文注释与学习笔记**。这是我自己入门 LangGraph 时留下的第一个项目，适合中文开发者一同学习。
+> 将知名开源项目 `gemini-fullstack-langgraph-quickstart` 后端改造，把 Gemini API 替换为 Qwen API，并补充了完整的**中文注释与学习笔记**。这是我入门 LangGraph 时留下的第一个项目，适合中文开发者一同学习。
 
 `Python` `LangGraph` `Qwen` `中文教程`
 
@@ -111,5 +118,3 @@
 *单个智能体能做一件事，多个智能体能改变世界。*
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
