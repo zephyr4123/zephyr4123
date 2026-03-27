@@ -1,56 +1,28 @@
-<!--
-  GitHub Profile README for zephyr4123
-  Author: Huang Suxiang
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=160&section=header&text=Huang%20Suxiang%20%2F%20%E9%BB%84%E8%8B%8F%E7%BF%94&fontSize=32&fontColor=e2e8f0&animation=fadeIn&fontAlignY=42&desc=Multi-Agent%20%C2%B7%20AI%20Researcher%20%C2%B7%20Builder&descSize=16&descAlignY=62&descAlign=50" width="100%"/>
 
-<div align="center">
+<br/>
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I'm%20Huang%20Suxiang%20%F0%9F%91%8B&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Multi-Agent%20%7C%20AI%20Researcher%20%7C%20Builder&descAlignY=58&descAlign=50" width="100%"/>
+<!-- ========== ABOUT ME ========== -->
 
-</div>
+<table width="100%">
+<tr>
+<td valign="top" width="52%">
 
----
-
-<div align="center">
-
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+Multi-Agent+Systems+Explorer;%F0%9F%8F%AB+Tianjin+University+%7C+AI+Postgraduate;%F0%9F%94%AC+Researcher+%40+Turing+Synergy+Tech;%F0%9F%9A%80+Building+the+Future+of+Agentic+AI)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
+### 👤 About Me
 
 <table>
-<tr>
-<td width="55%">
-
-```yaml
-name: Huang Suxiang (黄苏翔)
-alias: zephyr4123
-education:
-  - degree: B.Eng  →  M.Eng (保研直升 🎓)
-    school: Tianjin University
-    major: Artificial Intelligence
-    year: Senior (2026 graduating)
-work:
-  - role: 技术顾问 (Tech Consultant)
-    company: 深圳图灵协同科技有限公司
-    focus: Multi-Agent System Engineering
-research:
-  - Multi-Agent Collaboration
-  - LLM Orchestration (LangGraph / AutoGen)
-  - Social Simulation & Emergence
-  - AI for Scientific Research
-status: "Always building something cool 🔥"
-```
+<tr><td>🎓 <b>Education</b></td><td>天津大学 · 人工智能 · 大四<br/>已保研至本校直升硕士 🎉</td></tr>
+<tr><td>🔬 <b>Research</b></td><td>Multi-Agent Systems · LLM Orchestration<br/>社会涌现仿真 · AI for Science</td></tr>
+<tr><td>💼 <b>Work</b></td><td>深圳图灵协同科技有限公司<br/>技术顾问 · Tech Consultant</td></tr>
+<tr><td>🛠️ <b>Stack</b></td><td>Python · LangGraph · LangChain<br/>FastAPI · Docker</td></tr>
+<tr><td>🌐 <b>Blog</b></td><td><a href="https://www.zephyrxiang.com">zephyrxiang.com</a></td></tr>
+<tr><td>📬 <b>Contact</b></td><td><a href="mailto:huangsuxiang5@gmail.com">huangsuxiang5@gmail.com</a><br/>WeChat: 13976457218</td></tr>
+</table>
 
 </td>
-<td width="45%" align="center">
+<td valign="top" width="48%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zephyr4123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zephyr4123&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" width="100%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zephyr4123&theme=tokyonight&hide_border=true" width="100%"/>
 
@@ -58,173 +30,86 @@ status: "Always building something cool 🔥"
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## 🚀 Featured Projects
+<!-- ========== PROJECTS ========== -->
 
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-<a href="https://github.com/zephyr4123/synapse-run">
-<img src="https://img.shields.io/badge/🏃‍♂️-Synapse--Run-ff6b6b?style=for-the-badge&logoColor=white"/>
-</a>
-
-**智能跑步训练助手**
-
-多智能体「论坛式」协作架构，像大脑突触一样让 AI 碰撞出专业跑步训练方案。
-
-![Stars](https://img.shields.io/github/stars/zephyr4123/synapse-run?style=flat-square&color=gold)
-![Forks](https://img.shields.io/github/forks/zephyr4123/synapse-run?style=flat-square&color=blue)
-![Lang](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-
-<td align="center" width="33%">
-<a href="https://github.com/zephyr4123/Emergenta">
-<img src="https://img.shields.io/badge/🌍-Emergenta-a29bfe?style=for-the-badge&logoColor=white"/>
-</a>
-
-**文明模拟器 · 涌现引擎**
-
-三层金字塔架构（FSM + 聚合 + LLM），单次并发 1000+ 智能体，推演通胀、茧房与地缘博弈。
-
-![Stars](https://img.shields.io/github/stars/zephyr4123/Emergenta?style=flat-square&color=gold)
-![Lang](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-
-<td align="center" width="33%">
-<a href="https://github.com/zephyr4123/sololab">
-<img src="https://img.shields.io/badge/🔬-SoloLab-55efc4?style=for-the-badge&logoColor=black"/>
-</a>
-
-**一人实验室 · 科研多智能体**
-
-专为个人科研提效设计的多智能体助手，让一个人拥有整个实验室的战斗力。
-
-![Stars](https://img.shields.io/github/stars/zephyr4123/sololab?style=flat-square&color=gold)
-![Lang](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-
-</tr>
-<tr>
-
-<td align="center" width="33%">
-<a href="https://github.com/zephyr4123/Fact-Guard-Pro">
-<img src="https://img.shields.io/badge/🛡️-Fact--Guard--Pro-fdcb6e?style=for-the-badge&logoColor=black"/>
-</a>
-
-**事实核查系统**
-
-基于 LangGraph 构建的 CLI 事实校验器，大量工程化适配，是入门 LangGraph 的绝佳参考项目。
-
-![Stars](https://img.shields.io/github/stars/zephyr4123/Fact-Guard-Pro?style=flat-square&color=gold)
-![Lang](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-
-<td align="center" width="33%">
-<a href="https://github.com/zephyr4123/langgraph-quickstart-chineses">
-<img src="https://img.shields.io/badge/📚-LangGraph--CN-74b9ff?style=for-the-badge&logoColor=white"/>
-</a>
-
-**LangGraph 中文快速上手**
-
-将 Gemini 全栈项目改造为 Qwen API，添加完整汉化与学习笔记，让中文开发者轻松入门。
-
-![Stars](https://img.shields.io/github/stars/zephyr4123/langgraph-quickstart-chineses?style=flat-square&color=gold)
-![Lang](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-
-<td align="center" width="33%">
+### 🚀 Projects
 
 <br/>
 
-🤔 **More coming soon...**
+**[🧠 synapse-run](https://github.com/zephyr4123/synapse-run)** &nbsp; ![Stars](https://img.shields.io/github/stars/zephyr4123/synapse-run?style=flat-square&color=f9ca24) ![Forks](https://img.shields.io/github/forks/zephyr4123/synapse-run?style=flat-square&color=74b9ff)
 
-正在构建下一个
-让世界更智能的项目
+> 专为中长跑爱好者打造的智能训练助手。系统采用**多智能体「论坛式」协作架构**，多个专业 AI Agent 像神经突触一样碰撞思维，为跑者生成个性化训练方案。这是我在 Multi-Agent 方向上的第一个完整落地项目，也是目前 star 数最多的作品。
 
-⭐ Stay tuned!
+`Python` `LangGraph` `Multi-Agent`
 
-</td>
+<br/>
 
-</tr>
-</table>
+**[🌍 Emergenta](https://github.com/zephyr4123/Emergenta)** &nbsp; ![Stars](https://img.shields.io/github/stars/zephyr4123/Emergenta?style=flat-square&color=f9ca24)
 
-</div>
+> 一个混合 LLM 驱动的文明宏观仿真框架。核心创新是**三层金字塔架构**：底层有限状态机（FSM）处理微观行为、中层聚合数据降低 Token 消耗、顶层 LLM 负责战略决策。单次模拟可并发 1000+ 智能体，完整推演通货膨胀、信息茧房、地缘博弈等极端社会场景。
 
----
+`Python` `FSM` `LLM` `Social Simulation`
 
-## 🛠️ Tech Stack
+<br/>
 
-<div align="center">
+**[🔬 sololab](https://github.com/zephyr4123/sololab)** &nbsp; ![Stars](https://img.shields.io/github/stars/zephyr4123/sololab?style=flat-square&color=f9ca24)
 
-**🤖 AI / LLM**
+> 专注于**个人科研提效**的多智能体助手系统。灵感来自「一人实验室」——让单个研究者借助 AI Agent 协作，拥有超越人力的文献调研、实验设计与写作能力。这也是我当前最新、最核心的在研项目。
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+`Python` `Multi-Agent` `AI for Science`
 
-**⚙️ Engineering**
+<br/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**[🛡️ Fact-Guard-Pro](https://github.com/zephyr4123/Fact-Guard-Pro)** &nbsp; ![Stars](https://img.shields.io/github/stars/zephyr4123/Fact-Guard-Pro?style=flat-square&color=f9ca24)
 
-</div>
+> 基于 LangGraph 官方教程搭建的 CLI 版事实校验系统，在教程基础上完成了大量**工程化适配**。对想快速入门 LangGraph 或做二次开发的开发者来说，是一个值得参考的起步项目。
 
----
+`Python` `LangGraph` `Fact-Checking`
 
-## 📊 Language Stats
+<br/>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephyr4123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="45%"/>
-</div>
+**[📖 langgraph-quickstart-chineses](https://github.com/zephyr4123/langgraph-quickstart-chineses)** &nbsp; ![Stars](https://img.shields.io/github/stars/zephyr4123/langgraph-quickstart-chineses?style=flat-square&color=f9ca24)
+
+> 将知名开源项目 `gemini-fullstack-langgraph-quickstart` 后端改造，把 Gemini API 替换为 Qwen API，并补充了完整的**中文注释与学习笔记**。这是我自己入门 LangGraph 时留下的第一个项目，适合中文开发者一同学习。
+
+`Python` `LangGraph` `Qwen` `中文教程`
+
+<br/>
 
 ---
 
-## 🌐 Connect With Me
+<!-- ========== STATS ========== -->
 
 <div align="center">
 
-<a href="mailto:huangsuxiang5@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-huangsuxiang5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephyr4123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
+</div>
+
+<br/>
+
+---
+
+<!-- ========== FOOTER ========== -->
+
+<div align="center">
+
+<a href="https://www.zephyrxiang.com"><img src="https://img.shields.io/badge/Blog-zephyrxiang.com-0f3460?style=flat-square&logo=safari&logoColor=white"/></a>
 &nbsp;
-
-<a href="https://github.com/zephyr4123">
-  <img src="https://img.shields.io/badge/GitHub-zephyr4123-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<a href="mailto:huangsuxiang5@gmail.com"><img src="https://img.shields.io/badge/Gmail-huangsuxiang5@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 &nbsp;
-
-<img src="https://img.shields.io/badge/WeChat-13976457218-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Visitor counter -->
-<img src="https://komarev.com/ghpvc/?username=zephyr4123&color=6AD3F7&style=flat-square&label=Profile+Views"/>
+<img src="https://img.shields.io/badge/WeChat-13976457218-07C160?style=flat-square&logo=wechat&logoColor=white"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=zephyr4123&color=0f3460&style=flat-square&label=Views"/>
 
 <br/><br/>
 
-> 💡 *"单个智能体能做一件事，多个智能体能改变世界。"*
-> 
-> *— 专注 Multi-Agent，从每一行代码开始。*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+*单个智能体能做一件事，多个智能体能改变世界。*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
