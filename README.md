@@ -1,44 +1,39 @@
-<div align="center">
+# Hi, I'm zephyr (黄苏翔) 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Hi+%F0%9F%91%8B+I'm+Huang+Suxiang+%2F+%E9%BB%84%E8%8B%8F%E7%BF%94;Multi-Agent+%C2%B7+AI+%C2%B7+Builder)](https://git.io/typing-svg)
+Multi-agent systems researcher & builder. I design and ship multi-agent frameworks, agent infrastructure, and developer tooling — always shipping.
 
-</div>
+- 🎓 **Tianjin University** — Artificial Intelligence · direct-admission MS incoming (保研直升)
+- 🔬 **Research** — Multi-Agent Systems · LLM Orchestration · Social Emergence
+- 💼 **Technical Advisor** @ Turing Synergy (深圳图灵协同科技)
+- 🌐 **Blog** — [zephyrxiang.com](https://www.zephyrxiang.com)
+- 📮 **Email** — [huangsuxiang5@gmail.com](mailto:huangsuxiang5@gmail.com)
 
----
+**Tech:** `Python` · `TypeScript` · `LangGraph` · `LangChain` · `FastAPI` · `PostgreSQL` · `Docker`
 
-### 👤 About Me
+## Projects
 
-| | |
-|---|---|
-| 🎓 **School** | 天津大学 · 人工智能 · 大四 · 已保研直升硕士 |
-| 🔬 **Research** | Multi-Agent Systems · LLM Orchestration · Social Emergence |
-| 💼 **Work** | 深圳图灵协同科技有限公司 · 技术顾问 |
-| 🛠️ **Stack** | Python · LangGraph · LangChain · FastAPI · Docker |
-| 🌐 **Blog** | [zephyrxiang.com](https://www.zephyrxiang.com) |
-| 📮 **Contact** | [huangsuxiang5@gmail.com](mailto:huangsuxiang5@gmail.com) · WeChat: 13976457218 |
+### 🤖 Multi-Agent Systems
 
----
+- **[synapse-run](https://github.com/zephyr4123/synapse-run)** · ★92 — A multi-agent running coach: four specialized LLM agents collaborate "forum-style" to turn your Keep / Garmin data into personalized middle- and long-distance training plans.
+- **[Emergenta](https://github.com/zephyr4123/Emergenta)** · ★3 — A large-scale civilization simulator where 1000+ agents surface emergent revolutions and information cocoons. A three-layer pyramid runs commoners on FSM + Markov and only leaders on LLMs, for ~99% lower cost than a full-LLM sim.
+- **[sololab](https://github.com/zephyr4123/sololab)** · ★4 — A self-hostable "one-person lab": a modular AI research platform that takes work from idea generation to coding to academic paper writing as hot-pluggable modules.
 
-### 🚀 Projects
+### 🛠️ Agent Infrastructure & Dev Tools
 
-| Project | Description | Stars |
-|---|---|---|
-| [🧠 synapse-run](https://github.com/zephyr4123/synapse-run) | 多智能体「论坛式」协作的中长跑智能训练助手，多个 Agent 碰撞生成个性化方案 | ![](https://img.shields.io/github/stars/zephyr4123/synapse-run?style=flat-square&color=f9ca24) |
-| [🌍 Emergenta](https://github.com/zephyr4123/Emergenta) | FSM + 聚合 + LLM 三层金字塔架构的文明宏观仿真框架，支持 1000+ 智能体并发 | ![](https://img.shields.io/github/stars/zephyr4123/Emergenta?style=flat-square&color=f9ca24) |
-| [🔬 sololab](https://github.com/zephyr4123/sololab) | 面向个人科研提效的多智能体助手，打造「一人实验室」 | ![](https://img.shields.io/github/stars/zephyr4123/sololab?style=flat-square&color=f9ca24) |
-| [🛡️ Fact-Guard-Pro](https://github.com/zephyr4123/Fact-Guard-Pro) | 基于 LangGraph 的 CLI 事实核查系统，含完整工程化适配，适合入门参考 | ![](https://img.shields.io/github/stars/zephyr4123/Fact-Guard-Pro?style=flat-square&color=f9ca24) |
-| [📖 langgraph-quickstart-chineses](https://github.com/zephyr4123/langgraph-quickstart-chineses) | Gemini 全栈项目改 Qwen API，补充中文注释与学习笔记，适合中文开发者入门 | ![](https://img.shields.io/github/stars/zephyr4123/langgraph-quickstart-chineses?style=flat-square&color=f9ca24) |
+- **[blazecoder](https://github.com/zephyr4123/blazecoder)** · ★2 — A terminal coding agent in the spirit of Claude Code, with parallel sub-agents and native PDF / Word / Excel / PowerPoint editing, powered by DeepSeek · Kimi · OpenAI.
+- **[memory-ledger](https://github.com/zephyr4123/memory-ledger)** · ★3 — Provenance-first agent memory on Postgres: every change is an append-only typed intent, replayed in pure SQL for deterministic *as-of* time travel — no embeddings, with a human-confirmation gate before edits land.
+- **[llm-eval-from-scratch](https://github.com/zephyr4123/llm-eval-from-scratch)** — A minimal-config, offline-first LLM eval harness for local (vLLM / Ollama / LM Studio) and API (OpenAI / Anthropic) models on MMLU / GSM8K, with pluggable providers, datasets, and scorers.
+- **[skills-Scaffolding](https://github.com/zephyr4123/skills-Scaffolding)** — My personal Claude Code skill scaffold: one source-of-truth repo shipped two ways — as a subscribable plugin marketplace and via git symlinks.
 
----
+### 📚 Learning & Reference
 
-<div align="center">
+- **[Fact-Guard-Pro](https://github.com/zephyr4123/Fact-Guard-Pro)** · ★4 — A CLI fact-checking agent on LangGraph with human-in-the-loop verification, using the Interrupt mechanism and Command-based routing to search, deep-verify, and report.
+- **[langgraph-quickstart-chineses](https://github.com/zephyr4123/langgraph-quickstart-chineses)** — Google's Gemini deep-research quickstart re-implemented on Alibaba's Qwen API and fully annotated in Chinese — a friendly on-ramp for LangGraph learners.
 
-<a href="https://www.zephyrxiang.com"><img src="https://img.shields.io/badge/Blog-zephyrxiang.com-0f3460?style=flat-square&logo=safari&logoColor=white"/></a>
-&nbsp;
-<a href="mailto:huangsuxiang5@gmail.com"><img src="https://img.shields.io/badge/Gmail-huangsuxiang5@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<img src="https://img.shields.io/badge/WeChat-13976457218-07C160?style=flat-square&logo=wechat&logoColor=white"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=zephyr4123&color=0f3460&style=flat-square&label=Views"/>
+### 🏔️ Just for Fun
 
-</div>
+- **[above-the-wind](https://github.com/zephyr4123/above-the-wind)** — A WebGL2 archive of Earth's fourteen 8000m peaks and their golden-age first ascents, rendered from real SRTM elevation data with zero copyrighted images.
+
+## Contact
+
+📮 [huangsuxiang5@gmail.com](mailto:huangsuxiang5@gmail.com) · 🌐 [zephyrxiang.com](https://www.zephyrxiang.com) · 💬 WeChat: 13976457218
