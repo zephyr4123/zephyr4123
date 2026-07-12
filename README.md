@@ -5,18 +5,16 @@ Multi-agent systems researcher & builder. I design and ship multi-agent framewor
 - 🎓 **Tianjin University** — Artificial Intelligence · direct-admission MS incoming
 - 🔬 **Research** — Multi-Agent Systems · LLM Orchestration · Social Emergence
 - 💼 **Technical Advisor** @ Turing Synergy
-- 🌐 **Blog** — [zephyrxiang.com](https://www.zephyrxiang.com)
-- 📮 **Email** — [huangsuxiang5@gmail.com](mailto:huangsuxiang5@gmail.com)
 
 ### 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Projects
 
@@ -44,4 +42,6 @@ Multi-agent systems researcher & builder. I design and ship multi-agent framewor
 
 ## 📫 Contact
 
-📮 [huangsuxiang5@gmail.com](mailto:huangsuxiang5@gmail.com) · 🌐 [zephyrxiang.com](https://www.zephyrxiang.com) · 💬 WeChat: 13976457218
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huangsuxiang5@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-1E6FEB?style=for-the-badge&logo=safari&logoColor=white)](https://www.zephyrxiang.com)
+![WeChat](https://img.shields.io/badge/WeChat-13976457218-07C160?style=for-the-badge&logo=wechat&logoColor=white)
