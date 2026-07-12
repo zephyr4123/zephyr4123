@@ -19,10 +19,6 @@ Multi-agent systems researcher & builder. I design and ship multi-agent framewor
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🔥 Activity
-
-[![zephyr's GitHub streak](https://streak-stats.demolab.com?user=zephyr4123&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/zephyr4123)
-
 ## Projects
 
 ### 🤖 Multi-Agent Systems
