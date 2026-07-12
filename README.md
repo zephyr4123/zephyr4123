@@ -4,7 +4,7 @@ Multi-agent systems researcher & builder. I design and ship multi-agent framewor
 
 - 🎓 **Tianjin University** — Artificial Intelligence · direct-admission MS incoming
 - 🔬 **Research** — Multi-Agent Systems · LLM Orchestration · Social Emergence
-- 💼 **Technical Advisor** @ Turing Synergy — building iOS apps and owning multiple products end-to-end as a builder, while exploring the industry's most cutting-edge collaboration models
+- 💼 **Technical Advisor** @ Turing Synergy — iOS App Development · Multi-Product Builder · Cutting-Edge Collaboration Models
 
 ### 🧰 Tech Stack
 
