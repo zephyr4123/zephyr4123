@@ -23,7 +23,10 @@ jobs:
           feed_list: "https://zephyrxiang.com/feed-featured.xml"
           max_post_count: 5
           # Title + URL only — the feed's <description> is Chinese, so we never render it.
-          template: "- **[$title]($url)**$newline"
+          # Lead with $newline so item #1 isn't glued to the START marker comment.
+          template: "$newline- **[$title]($url)**"
+          # Keep apostrophes/ampersands literal instead of &#39; etc.
+          disable_html_encoding: "true"
           comment_tag_name: "BLOG-POST-LIST"
           enable_keepalive: "false"
           commit_message: "chore: sync latest blog posts to README"
