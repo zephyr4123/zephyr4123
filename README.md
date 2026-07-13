@@ -49,11 +49,10 @@ Multi-agent systems researcher & builder. I design and ship multi-agent framewor
 A few pieces I'm proud of, from my blog at [zephyrxiang.com](https://zephyrxiang.com):
 
 <!-- BLOG-POST-LIST:START -->
-- **[Piolets d'Or: four stories on why *how* you climb matters more than *what*](https://zephyrxiang.com/blog/piolets-dor-four-stories)**
-- **[Cache ↔ database consistency: from Cache-Aside to Bloom filters](https://zephyrxiang.com/blog/cache-database-consistency)**
-- **[gh: fitting all of GitHub into your terminal](https://zephyrxiang.com/blog/github-cli-gh)**
-- **[From static servers to CI/CD: GitHub Pages, Jekyll & Actions](https://zephyrxiang.com/blog/github-pages-jekyll-actions-guide)**
-- **[Notes on deploying Qwen locally](https://zephyrxiang.com/blog/qwen-local-deployment-notes)**
+- **[gh: Fitting All of GitHub into Your Terminal](https://zephyrxiang.com/blog/github-cli-gh/)**
+- **[The Piolets d'Or: Four Stories on Why How You Climb Matters More Than What You Climb](https://zephyrxiang.com/blog/piolets-dor-four-stories/)**
+- **[Cache-Database Consistency: From Cache Aside to Bloom Filters](https://zephyrxiang.com/blog/cache-database-consistency/)**
+- **[From Static Servers to CI/CD: A Complete Guide to GitHub Pages, Jekyll, and GitHub Actions](https://zephyrxiang.com/blog/github-pages-jekyll-actions-guide/)**
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact
