@@ -1,0 +1,27 @@
+name: Sync latest blog posts to README
+
+on:
+  schedule:
+    # Daily at 02:00 UTC (~10:00 Asia/Shanghai)
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+# Least-privilege: only this workflow's token gets write, scoped to repo contents.
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pull featured posts from the blog feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Curated feed: only posts marked `featured: true`, English titles (title_en).
+          feed_list: "https://zephyrxiang.com/feed-featured.xml"
+          max_post_count: 5
+          # Title + URL only — the feed's <description> is Chinese, so we never render it.
+          template: "- **[$title]($url)**$newline"
+          comment_tag_name: "BLOG-POST-LIST"
+          enable_keepalive: "false"
+          commit_message: "chore: sync latest blog posts to README"
