@@ -4,7 +4,7 @@ Multi-agent systems researcher & builder. I design and ship multi-agent framewor
 
 > 🔭 **Currently** — exploring a methodology for multi-agent orchestration, and shipping iOS products end-to-end.
 
-- 🎓 **Tianjin University** — Artificial Intelligence · direct-admission MS incoming
+- 🎓 **Tianjin University** — Artificial Intelligence · direct-admission MS student
 - 🔬 **Research** — Multi-Agent Systems · LLM Orchestration · Social Emergence
 - 💼 **Technical Advisor** @ Turing Synergy — iOS App Development · Multi-Product Builder · Cutting-Edge Collaboration Models
 - 📍 **Based in** Tianjin, China · UTC+8
@@ -28,17 +28,26 @@ Multi-agent systems researcher & builder. I design and ship multi-agent framewor
 - **[Emergenta](https://github.com/zephyr4123/Emergenta)** — A large-scale civilization simulator where 1000+ agents surface emergent revolutions and information cocoons. A three-layer pyramid runs commoners on FSM + Markov and only leaders on LLMs, for ~99% lower cost than a full-LLM sim.
 - **[sololab](https://github.com/zephyr4123/sololab)** — A self-hostable "one-person lab": a modular AI research platform that takes work from idea generation to coding to academic paper writing as hot-pluggable modules.
 
+### 🔬 AI for Science
+
+- **[TJU-AI4Science](https://github.com/zephyr4123/TJU-AI4Science)** — Project home for the Tianjin University lab's AI-for-Science automation platform: principles, ADRs, specs, real case cards, public research on GitHub Pages, and a cross-repo CLI — production code lives in a separate repo.
+- **[TJU-AI4Science-Platform](https://github.com/zephyr4123/TJU-AI4Science-Platform)** — Production code for that platform. On the web, a Claude Code / Codex research assistant runs seven stages — literature, hypothesis, design, experiment, analysis, writing, verification — while a person confirms only at breakpoints and a model-free framework traces every number back to a file.
+- **[aaai4s-site](https://github.com/zephyr4123/aaai4s-site)** — Product site for AAAI4S: the intro, installer downloads, and a resident Q&A assistant.
+
 ### 🛠️ Agent Infrastructure & Dev Tools
 
 - **[blazecoder](https://github.com/zephyr4123/blazecoder)** — A terminal coding agent in the spirit of Claude Code, with parallel sub-agents and native PDF / Word / Excel / PowerPoint editing, powered by DeepSeek · Kimi · OpenAI.
 - **[memory-ledger](https://github.com/zephyr4123/memory-ledger)** — Provenance-first agent memory on Postgres: every change is an append-only typed intent, replayed in pure SQL for deterministic *as-of* time travel — no embeddings, with a human-confirmation gate before edits land.
 - **[llm-eval-from-scratch](https://github.com/zephyr4123/llm-eval-from-scratch)** — A minimal-config, offline-first LLM eval harness for local (vLLM / Ollama / LM Studio) and API (OpenAI / Anthropic) models on MMLU / GSM8K, with pluggable providers, datasets, and scorers.
 - **[skills-Scaffolding](https://github.com/zephyr4123/skills-Scaffolding)** — My personal Claude Code skill scaffold: one source-of-truth repo shipped two ways — as a subscribable plugin marketplace and via git symlinks.
+- **[kineto](https://github.com/zephyr4123/kineto)** — An agent-first video studio on Remotion: describe a clip in plain words, Claude Code or Codex builds it through one CLI, and every asset and render stays on record as a real MP4.
 
 ### 📚 Learning & Reference
 
 - **[Fact-Guard-Pro](https://github.com/zephyr4123/Fact-Guard-Pro)** — A CLI fact-checking agent on LangGraph with human-in-the-loop verification, using the Interrupt mechanism and Command-based routing to search, deep-verify, and report.
 - **[langgraph-quickstart-chineses](https://github.com/zephyr4123/langgraph-quickstart-chineses)** — Google's Gemini deep-research quickstart re-implemented on Alibaba's Qwen API and fully annotated in Chinese — a friendly on-ramp for LangGraph learners.
+- **[zephyr-notes](https://github.com/zephyr4123/zephyr-notes)** — My personal knowledge base — notes on AI, engineering, and whatever I'm learning — with content split from index pages so a new topic is just another map.
+- **[golive-gallery](https://github.com/zephyr4123/golive-gallery)** — A teaching gallery of high-craft demo sites, each a live example of one deploy tier: free hosting, tunneling, or a cloud server with a domain and HTTPS.
 
 ### 🏔️ Just for Fun
 
@@ -59,5 +68,5 @@ A few pieces I'm proud of, from my blog at [zephyrxiang.com](https://zephyrxiang
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huangsuxiang5@gmail.com)
 [![X](https://img.shields.io/badge/X-%40zephyrxiang12-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zephyrxiang12)
-[![Blog](https://img.shields.io/badge/Blog-1E6FEB?style=for-the-badge&logo=safari&logoColor=white)](https://www.zephyrxiang.com)
+[![Blog](https://img.shields.io/badge/Blog-1E6FEB?style=for-the-badge&logo=safari&logoColor=white)](https://zephyrxiang.com)
 ![WeChat](https://img.shields.io/badge/WeChat-hsx20031117-07C160?style=for-the-badge&logo=wechat&logoColor=white)
