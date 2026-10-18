@@ -3,17 +3,18 @@
 **Multi-agent systems researcher & builder.**<br>
 **AI-era productivity tools** — built for my own daily use.
 
-- 🎓 **Tianjin University** — Artificial Intelligence · direct-admission MS
-- 🔬 **Research** — Multi-Agent Systems · LLM Orchestration · Social Emergence
-- ⚡ **Tools** — Voice Dictation · Agent-Made Video · Automated Research
-- 💼 **Technical Advisor** @ Turing Synergy — iOS App Development · Multi-Product Builder · Cutting-Edge Collaboration Models
-- 📍 **Based in** Tianjin, China · UTC+8
+- <img src="assets/icons/graduation-cap.svg" width="18" height="18" align="absmiddle" alt=""> **Tianjin University** — Artificial Intelligence · direct-admission MS
+- <img src="assets/icons/microscope.svg" width="18" height="18" align="absmiddle" alt=""> **Research** — Multi-Agent Systems · LLM Orchestration · Social Emergence
+- <img src="assets/icons/zap.svg" width="18" height="18" align="absmiddle" alt=""> **Tools** — Voice Dictation · Agent-Made Video · Automated Research
+- <img src="assets/icons/terminal.svg" width="18" height="18" align="absmiddle" alt=""> **Power User** — <img src="assets/icons/claude-code.svg" width="22" height="14" align="absmiddle" alt=""> Claude Code · <img src="assets/icons/codex.svg" width="18" height="18" align="absmiddle" alt=""> Codex
+- <img src="assets/icons/briefcase.svg" width="18" height="18" align="absmiddle" alt=""> **Technical Advisor** @ Turing Synergy — iOS App Development · Multi-Product Builder · Cutting-Edge Collaboration Models
+- <img src="assets/icons/map-pin.svg" width="18" height="18" align="absmiddle" alt=""> **Based in** Tianjin, China · UTC+8
 
-> 🔭 **Currently** — multi-agent orchestration methodology · end-to-end iOS products
+> <img src="assets/icons/telescope.svg" width="18" height="18" align="absmiddle" alt=""> **Currently** — multi-agent orchestration methodology · end-to-end iOS products
 
-## ⭐ Flagship Projects
+## <img src="assets/icons/star.svg" width="22" height="22" align="absmiddle" alt=""> Flagship Projects
 
-### ⚡ AI Productivity · tools I use daily
+### <img src="assets/icons/zap.svg" width="20" height="20" align="absmiddle" alt=""> AI Productivity · tools I use daily
 
 <table>
 <tr>
@@ -24,7 +25,7 @@
 <img src="https://raw.githubusercontent.com/zephyr4123/zephyr4123/main/assets/speakmore-light.webp" width="100%" alt="SpeakMore home window: words, time saved, speed, daily heatmap and spend">
 </picture></a>
 
-<h3><a href="https://github.com/zephyr4123/speakmore">🎙️ SpeakMore</a></h3>
+<h3><img src="assets/icons/speakmore.svg" width="22" height="22" align="absmiddle" alt=""> <a href="https://github.com/zephyr4123/speakmore">SpeakMore</a></h3>
 
 [![stars](https://img.shields.io/github/stars/zephyr4123/speakmore?style=flat-square&logo=github&logoColor=white&label=stars&color=EAB308)](https://github.com/zephyr4123/speakmore/stargazers)
 [![forks](https://img.shields.io/github/forks/zephyr4123/speakmore?style=flat-square&logo=github&logoColor=white&label=forks&color=8B5CF6)](https://github.com/zephyr4123/speakmore/forks)
@@ -45,7 +46,7 @@ Open-source voice dictation · macOS & Windows
 <a href="https://kineto.zephyrxiang.com/renders/speakmore-promo/speakmore-promo-d1ef58b88f15.mp4"><img src="assets/film-speakmore-launch.jpg" width="49%" alt="SpeakMore launch film"></a>
 <a href="https://kineto.zephyrxiang.com/renders/speakmore-promo-2/speakmore-promo-2-151b9a22c1b0.mp4"><img src="assets/film-speakmore-update.jpg" width="49%" alt="SpeakMore major-update film"></a>
 
-<h3><a href="https://github.com/zephyr4123/kineto">🎬 kineto</a></h3>
+<h3><img src="assets/icons/clapperboard.svg" width="20" height="20" align="absmiddle" alt=""> <a href="https://github.com/zephyr4123/kineto">kineto</a></h3>
 
 [![daily driver](https://img.shields.io/badge/daily_driver-all_my_promo_films-E4405F?style=flat-square)](https://github.com/zephyr4123/kineto)
 [![release](https://img.shields.io/github/v/release/zephyr4123/kineto?style=flat-square&color=0B84F3)](https://github.com/zephyr4123/kineto/releases)
@@ -57,13 +58,13 @@ Agent-first video studio · built on Remotion
 - Claude Code / Codex · one CLI
 - Every asset & render on record
 
-<sub>🎞️ Films above: [kineto launch](https://kineto.zephyrxiang.com/renders/kineto-promo/kineto-promo-714bded14437.mp4) · [Life of a Coffee](https://kineto.zephyrxiang.com/renders/coffee-life/coffee-life-4170819b59d6.mp4) · [SpeakMore launch](https://kineto.zephyrxiang.com/renders/speakmore-promo/speakmore-promo-d1ef58b88f15.mp4) · [SpeakMore update](https://kineto.zephyrxiang.com/renders/speakmore-promo-2/speakmore-promo-2-151b9a22c1b0.mp4)</sub>
+<sub><img src="assets/icons/film.svg" width="14" height="14" align="absmiddle" alt=""> Films above: [kineto launch](https://kineto.zephyrxiang.com/renders/kineto-promo/kineto-promo-714bded14437.mp4) · [Life of a Coffee](https://kineto.zephyrxiang.com/renders/coffee-life/coffee-life-4170819b59d6.mp4) · [SpeakMore launch](https://kineto.zephyrxiang.com/renders/speakmore-promo/speakmore-promo-d1ef58b88f15.mp4) · [SpeakMore update](https://kineto.zephyrxiang.com/renders/speakmore-promo-2/speakmore-promo-2-151b9a22c1b0.mp4)</sub>
 
 </td>
 </tr>
 </table>
 
-### 🤖 Multi-Agent Systems · in real use
+### <img src="assets/icons/bot.svg" width="20" height="20" align="absmiddle" alt=""> Multi-Agent Systems · in real use
 
 <table>
 <tr>
@@ -71,7 +72,7 @@ Agent-first video studio · built on Remotion
 
 <a href="https://aaai4s.zephyrxiang.com"><img src="assets/aaai4s.jpg" width="100%" alt="AAAI4S workspace: a paper-reproduction flow with stages, breakpoints and the assistant chat"></a>
 
-<h3><a href="https://github.com/zephyr4123/TJU-AI4Science">🔬 AAAI4S</a></h3>
+<h3><img src="assets/icons/aaai4s.svg" width="20" height="20" align="absmiddle" alt=""> <a href="https://github.com/zephyr4123/TJU-AI4Science">AAAI4S</a></h3>
 
 [![in use](https://img.shields.io/badge/in_use-graduate_course_%C2%B7_lab_research-7C3AED?style=flat-square)](https://aaai4s.zephyrxiang.com)
 [![website](https://img.shields.io/badge/website-live-1E6FEB?style=flat-square&logo=safari&logoColor=white)](https://aaai4s.zephyrxiang.com)
@@ -83,14 +84,14 @@ Research automation platform · Tianjin University
 - Human sign-off at breakpoints only
 - Claude Code / Codex as the research assistant
 
-<sub>📦 Repos: [home](https://github.com/zephyr4123/TJU-AI4Science) · [platform](https://github.com/zephyr4123/TJU-AI4Science-Platform) · [site](https://github.com/zephyr4123/aaai4s-site)</sub>
+<sub><img src="assets/icons/git-branch.svg" width="14" height="14" align="absmiddle" alt=""> Repos: [home](https://github.com/zephyr4123/TJU-AI4Science) · [platform](https://github.com/zephyr4123/TJU-AI4Science-Platform) · [site](https://github.com/zephyr4123/aaai4s-site)</sub>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/zephyr4123/synapse-run"><img src="assets/synapse-run.jpg" width="100%" alt="Synapse Run architecture: specialist agents collaborating through a forum engine"></a>
 
-<h3><a href="https://github.com/zephyr4123/synapse-run">🏃 Synapse Run</a></h3>
+<h3><img src="assets/icons/footprints.svg" width="20" height="20" align="absmiddle" alt=""> <a href="https://github.com/zephyr4123/synapse-run">Synapse Run</a></h3>
 
 [![stars](https://img.shields.io/github/stars/zephyr4123/synapse-run?style=flat-square&logo=github&logoColor=white&label=stars&color=EAB308)](https://github.com/zephyr4123/synapse-run/stargazers)
 [![forks](https://img.shields.io/github/forks/zephyr4123/synapse-run?style=flat-square&logo=github&logoColor=white&label=forks&color=8B5CF6)](https://github.com/zephyr4123/synapse-run/forks)
@@ -106,14 +107,14 @@ Multi-agent running coach · Keep / Garmin data
 </tr>
 </table>
 
-## 🧪 More Projects
+## <img src="assets/icons/layers.svg" width="22" height="22" align="absmiddle" alt=""> More Projects
 
-**🤖 Multi-Agent Systems**
+**<img src="assets/icons/bot.svg" width="18" height="18" align="absmiddle" alt=""> Multi-Agent Systems**
 
 - **[Emergenta](https://github.com/zephyr4123/Emergenta)** — Civilization simulator · 1000+ agents · emergent revolutions & information cocoons · LLMs for leaders only · ~99% cheaper than full-LLM
 - **[sololab](https://github.com/zephyr4123/sololab)** — Self-hostable one-person lab · idea → code → paper · hot-pluggable modules
 
-**🛠️ Agent Infrastructure & Dev Tools**
+**<img src="assets/icons/wrench.svg" width="18" height="18" align="absmiddle" alt=""> Agent Infrastructure & Dev Tools**
 
 - **[blazecoder](https://github.com/zephyr4123/blazecoder)** — Terminal coding agent · parallel sub-agents · native PDF / Word / Excel / PowerPoint editing · DeepSeek · Kimi · OpenAI
 - **[memory-ledger](https://github.com/zephyr4123/memory-ledger)** — Provenance-first agent memory on Postgres · append-only typed intents · *as-of* time travel in pure SQL · no embeddings
@@ -121,7 +122,7 @@ Multi-agent running coach · Keep / Garmin data
 - **[skills-Scaffolding](https://github.com/zephyr4123/skills-Scaffolding)** — Personal Claude Code skill scaffold · one source of truth · plugin marketplace + git symlinks
 
 <details>
-<summary><b>📚 Learning & 🏔️ Just for Fun</b></summary>
+<summary><b><img src="assets/icons/book-open.svg" width="18" height="18" align="absmiddle" alt=""> Learning &nbsp;·&nbsp; <img src="assets/icons/mountain-snow.svg" width="18" height="18" align="absmiddle" alt=""> Just for Fun</b></summary>
 
 <br>
 
@@ -133,7 +134,7 @@ Multi-agent running coach · Keep / Garmin data
 
 </details>
 
-## 🧰 Tech Stack
+## <img src="assets/icons/boxes.svg" width="22" height="22" align="absmiddle" alt=""> Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -146,7 +147,7 @@ Multi-agent running coach · Keep / Garmin data
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## ✍️ Writing
+## <img src="assets/icons/pen-line.svg" width="22" height="22" align="absmiddle" alt=""> Writing
 
 Selected posts · [zephyrxiang.com](https://zephyrxiang.com)
 
@@ -157,7 +158,7 @@ Selected posts · [zephyrxiang.com](https://zephyrxiang.com)
 - **[The Piolets d'Or: Four Stories on Why How You Climb Matters More Than What You Climb](https://zephyrxiang.com/blog/piolets-dor-four-stories/)**
 - **[Cache-Database Consistency: From Cache Aside to Bloom Filters](https://zephyrxiang.com/blog/cache-database-consistency/)**<!-- BLOG-POST-LIST:END -->
 
-## 📫 Contact
+## <img src="assets/icons/mail.svg" width="22" height="22" align="absmiddle" alt=""> Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huangsuxiang5@gmail.com)
 [![X](https://img.shields.io/badge/X-%40zephyrxiang12-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zephyrxiang12)
