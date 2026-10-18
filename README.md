@@ -20,20 +20,18 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://speakmore.zephyrxiang.com"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zephyr4123/zephyr4123/main/assets/speakmore-dark.webp">
-<img src="https://raw.githubusercontent.com/zephyr4123/zephyr4123/main/assets/speakmore-light.webp" width="100%" alt="SpeakMore home window: words, time saved, speed, daily heatmap and spend">
-</picture></a>
+<a href="https://speakmore.zephyrxiang.com"><img src="assets/speakmore-showcase.webp" width="100%" alt="SpeakMore website, with the Mac app and the dictation bar in front"></a>
 
 <h3><img src="assets/icons/speakmore.svg" width="22" height="22" align="absmiddle" alt=""> <a href="https://github.com/zephyr4123/speakmore">SpeakMore</a></h3>
+
+<img src="assets/icons/globe.svg" width="16" height="16" align="absmiddle" alt=""> **[speakmore.zephyrxiang.com](https://speakmore.zephyrxiang.com)**
 
 [![stars](https://img.shields.io/github/stars/zephyr4123/speakmore?style=flat-square&logo=github&logoColor=white&label=stars&color=EAB308)](https://github.com/zephyr4123/speakmore/stargazers)
 [![forks](https://img.shields.io/github/forks/zephyr4123/speakmore?style=flat-square&logo=github&logoColor=white&label=forks&color=8B5CF6)](https://github.com/zephyr4123/speakmore/forks)
 [![downloads](https://img.shields.io/badge/downloads-230%2B-10B981?style=flat-square)](https://speakmore.zephyrxiang.com)
-[![website](https://img.shields.io/badge/website-live-1E6FEB?style=flat-square&logo=safari&logoColor=white)](https://speakmore.zephyrxiang.com)
 
 **Speak, don't type.**<br>
-Open-source voice dictation · macOS & Windows
+Voice dictation · Mac & Windows apps
 
 - 29 models, or fully on-device
 - Fillers & self-corrections removed
@@ -71,15 +69,17 @@ Agent-first video studio · built on Remotion
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://aaai4s.zephyrxiang.com"><img src="assets/aaai4s.jpg" width="100%" alt="AAAI4S workspace: a paper-reproduction flow with stages, breakpoints and the assistant chat"></a>
+<a href="https://aaai4s.zephyrxiang.com"><img src="assets/aaai4s-showcase.webp" width="100%" alt="AAAI4S website, with the app running a paper-reproduction flow in front"></a>
 
 <h3><img src="assets/icons/aaai4s.svg" width="20" height="20" align="absmiddle" alt=""> <a href="https://github.com/zephyr4123/TJU-AI4Science">AAAI4S</a></h3>
 
+<img src="assets/icons/globe.svg" width="16" height="16" align="absmiddle" alt=""> **[aaai4s.zephyrxiang.com](https://aaai4s.zephyrxiang.com)**
+
 [![in use](https://img.shields.io/badge/in_use-graduate_course_%C2%B7_lab_research-7C3AED?style=flat-square)](https://aaai4s.zephyrxiang.com)
-[![website](https://img.shields.io/badge/website-live-1E6FEB?style=flat-square&logo=safari&logoColor=white)](https://aaai4s.zephyrxiang.com)
+[![release](https://img.shields.io/github/v/release/zephyr4123/TJU-AI4Science-Platform?style=flat-square&color=0B84F3)](https://github.com/zephyr4123/TJU-AI4Science-Platform/releases)
 
 **Automated research, every number traceable.**<br>
-Research automation platform · Tianjin University
+Mac & Windows apps · Tianjin University
 
 - Seven stages · literature → verification
 - Human sign-off at breakpoints only
