@@ -42,9 +42,9 @@ Free & open source · Mac & Windows apps
 <td width="50%" valign="top">
 
 <a href="https://kineto.zephyrxiang.com/renders/kineto-promo/kineto-promo-714bded14437.mp4"><img src="assets/film-kineto-launch.jpg" width="49%" alt="kineto launch film"></a>
-<a href="https://kineto.zephyrxiang.com/renders/coffee-life/coffee-life-4170819b59d6.mp4"><img src="assets/film-life-of-a-coffee.jpg" width="49%" alt="Life of a Coffee"></a>
 <a href="https://kineto.zephyrxiang.com/renders/speakmore-promo/speakmore-promo-d1ef58b88f15.mp4"><img src="assets/film-speakmore-launch.jpg" width="49%" alt="SpeakMore launch film"></a>
 <a href="https://kineto.zephyrxiang.com/renders/speakmore-promo-2/speakmore-promo-2-151b9a22c1b0.mp4"><img src="assets/film-speakmore-update.jpg" width="49%" alt="SpeakMore major-update film"></a>
+<a href="https://kineto.zephyrxiang.com/renders/speakmore-promo-3/speakmore-promo-3-abbea0ee35ef.mp4"><img src="assets/film-speakmore-0-17.jpg" width="49%" alt="SpeakMore 0.17 film"></a>
 
 <h3><img src="assets/icons/clapperboard.svg" width="20" height="20" align="absmiddle" alt=""> <a href="https://github.com/zephyr4123/kineto">kineto</a></h3>
 
@@ -58,7 +58,7 @@ Agent-first video studio · built on Remotion
 - Claude Code / Codex · one CLI
 - Every asset & render on record
 
-<sub><img src="assets/icons/film.svg" width="14" height="14" align="absmiddle" alt=""> Films above: [kineto launch](https://kineto.zephyrxiang.com/renders/kineto-promo/kineto-promo-714bded14437.mp4) · [Life of a Coffee](https://kineto.zephyrxiang.com/renders/coffee-life/coffee-life-4170819b59d6.mp4) · [SpeakMore launch](https://kineto.zephyrxiang.com/renders/speakmore-promo/speakmore-promo-d1ef58b88f15.mp4) · [SpeakMore update](https://kineto.zephyrxiang.com/renders/speakmore-promo-2/speakmore-promo-2-151b9a22c1b0.mp4)</sub>
+<sub><img src="assets/icons/film.svg" width="14" height="14" align="absmiddle" alt=""> Films above: [kineto launch](https://kineto.zephyrxiang.com/renders/kineto-promo/kineto-promo-714bded14437.mp4) · [SpeakMore launch](https://kineto.zephyrxiang.com/renders/speakmore-promo/speakmore-promo-d1ef58b88f15.mp4) · [SpeakMore update](https://kineto.zephyrxiang.com/renders/speakmore-promo-2/speakmore-promo-2-151b9a22c1b0.mp4) · [SpeakMore 0.17](https://kineto.zephyrxiang.com/renders/speakmore-promo-3/speakmore-promo-3-abbea0ee35ef.mp4)</sub>
 
 </td>
 </tr>
