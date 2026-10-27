@@ -154,11 +154,11 @@ Multi-agent running coach · Keep / Garmin data
 Selected posts · [zephyrxiang.com](https://zephyrxiang.com)
 
 <!-- BLOG-POST-LIST:START -->
+- **[Notes on How the Claude Code Team Does Code Review](https://zephyrxiang.com/blog/claude-code-team-code-review/)**
+- **[Notes on Getting Started with Claude Code Mods](https://zephyrxiang.com/blog/claude-code-mods/)**
+- **[Notes on Automating Eval Design and Hillclimbing](https://zephyrxiang.com/blog/automating-eval-hillclimbing/)**
 - **[Anatomy of an ngrok Tunnel: How Traffic Reaches Your localhost](https://zephyrxiang.com/blog/ngrok-tunneling-explained/)**
-- **[Persisting AI Conversations with Multica: From Throwaway Sessions to Project and Toolkit](https://zephyrxiang.com/blog/persist-ai-sessions-multica/)**
-- **[gh: Fitting All of GitHub into Your Terminal](https://zephyrxiang.com/blog/github-cli-gh/)**
-- **[The Piolets d'Or: Four Stories on Why How You Climb Matters More Than What You Climb](https://zephyrxiang.com/blog/piolets-dor-four-stories/)**
-- **[Cache-Database Consistency: From Cache Aside to Bloom Filters](https://zephyrxiang.com/blog/cache-database-consistency/)**<!-- BLOG-POST-LIST:END -->
+- **[Persisting AI Conversations with Multica: From Throwaway Sessions to Project and Toolkit](https://zephyrxiang.com/blog/persist-ai-sessions-multica/)**<!-- BLOG-POST-LIST:END -->
 
 ## <img src="assets/icons/mail.svg" width="22" height="22" align="absmiddle" alt=""> Contact
 
