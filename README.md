@@ -28,7 +28,7 @@
 
 [![stars](https://img.shields.io/github/stars/zephyr4123/speakmore?style=flat-square&logo=github&logoColor=white&label=stars&color=EAB308)](https://github.com/zephyr4123/speakmore/stargazers)
 [![forks](https://img.shields.io/github/forks/zephyr4123/speakmore?style=flat-square&logo=github&logoColor=white&label=forks&color=8B5CF6)](https://github.com/zephyr4123/speakmore/forks)
-[![downloads](https://img.shields.io/badge/downloads-580%2B-10B981?style=flat-square)](https://speakmore.zephyrxiang.com)
+[![downloads](https://img.shields.io/badge/downloads-740%2B-10B981?style=flat-square)](https://speakmore.zephyrxiang.com)
 
 **Speak it written. Select to translate.**<br>
 Free & open source · Mac & Windows apps
