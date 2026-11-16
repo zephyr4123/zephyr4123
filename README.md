@@ -5,7 +5,7 @@
 
 - <img src="assets/icons/graduation-cap.svg" width="18" height="18" align="absmiddle" alt=""> **Tianjin University** — Artificial Intelligence · direct-admission MS
 - <img src="assets/icons/microscope.svg" width="18" height="18" align="absmiddle" alt=""> **Research** — Multi-Agent Systems · LLM Orchestration · Social Emergence
-- <img src="assets/icons/zap.svg" width="18" height="18" align="absmiddle" alt=""> **Tools** — Voice Input & Translation · Agent-Made Video · Automated Research
+- <img src="assets/icons/zap.svg" width="18" height="18" align="absmiddle" alt=""> **Tools** — Voice Input & Translation · Mac on Your Phone · Agent-Made Video · Automated Research
 - <img src="assets/icons/terminal.svg" width="18" height="18" align="absmiddle" alt=""> **Power User** — <img src="assets/icons/claude-code.svg" width="22" height="14" align="absmiddle" alt=""> Claude Code · <img src="assets/icons/codex.svg" width="18" height="18" align="absmiddle" alt=""> Codex
 - <img src="assets/icons/briefcase.svg" width="18" height="18" align="absmiddle" alt=""> **Technical Advisor** @ Turing Synergy — iOS App Development · Multi-Product Builder · Cutting-Edge Collaboration Models
 - <img src="assets/icons/map-pin.svg" width="18" height="18" align="absmiddle" alt=""> **Based in** Tianjin, China · UTC+8
@@ -28,7 +28,7 @@
 
 [![stars](https://img.shields.io/github/stars/zephyr4123/speakmore?style=flat-square&logo=github&logoColor=white&label=stars&color=EAB308)](https://github.com/zephyr4123/speakmore/stargazers)
 [![forks](https://img.shields.io/github/forks/zephyr4123/speakmore?style=flat-square&logo=github&logoColor=white&label=forks&color=8B5CF6)](https://github.com/zephyr4123/speakmore/forks)
-[![downloads](https://img.shields.io/badge/downloads-740%2B-10B981?style=flat-square)](https://speakmore.zephyrxiang.com)
+[![downloads](https://img.shields.io/badge/downloads-820%2B-10B981?style=flat-square)](https://speakmore.zephyrxiang.com)
 
 **Speak it written. Select to translate.**<br>
 Free & open source · Mac & Windows apps
@@ -41,14 +41,48 @@ Free & open source · Mac & Windows apps
 </td>
 <td width="50%" valign="top">
 
+<a href="https://github.com/zephyr4123/snug"><img src="assets/snug-showcase.webp" width="100%" alt="UU Remote alone shrinks the desktop into a strip; with Snug, a terminal and the App Library fill the phone"></a>
+
+<h3><img src="assets/icons/snug.svg" width="22" height="22" align="absmiddle" alt=""> <a href="https://github.com/zephyr4123/snug">Snug</a></h3>
+
+<img src="assets/icons/rocket.svg" width="16" height="16" align="absmiddle" alt=""> **Launched Nov 2026 · 11 releases in 4 days**
+
+[![stars](https://img.shields.io/github/stars/zephyr4123/snug?style=flat-square&logo=github&logoColor=white&label=stars&color=EAB308)](https://github.com/zephyr4123/snug/stargazers)
+[![forks](https://img.shields.io/github/forks/zephyr4123/snug?style=flat-square&logo=github&logoColor=white&label=forks&color=8B5CF6)](https://github.com/zephyr4123/snug/forks)
+[![downloads](https://img.shields.io/badge/downloads-950%2B-10B981?style=flat-square)](https://github.com/zephyr4123/snug/releases/latest)
+
+**Your Mac, native on your phone.**<br>
+Mac menu-bar app · built for UU Remote
+
+- Portrait screen · windows fill the phone
+- iOS gestures · scroll, select, long-press
+- Claude Code / Codex · your own terminal
+- Any phone · 800 models, 17 brands
+
+<sub><img src="assets/icons/git-fork.svg" width="14" height="14" align="absmiddle" alt=""> Continues [UUyc-companion](https://github.com/aoyamashou/UUyc-companion) by AoyamaShou</sub>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="56%" valign="top">
+
 <a href="https://kineto.zephyrxiang.com/renders/kineto-promo/kineto-promo-714bded14437.mp4"><img src="assets/film-kineto-launch.jpg" width="49%" alt="kineto launch film"></a>
 <a href="https://kineto.zephyrxiang.com/renders/speakmore-promo/speakmore-promo-d1ef58b88f15.mp4"><img src="assets/film-speakmore-launch.jpg" width="49%" alt="SpeakMore launch film"></a>
-<a href="https://kineto.zephyrxiang.com/renders/speakmore-promo-2/speakmore-promo-2-151b9a22c1b0.mp4"><img src="assets/film-speakmore-update.jpg" width="49%" alt="SpeakMore major-update film"></a>
 <a href="https://kineto.zephyrxiang.com/renders/speakmore-promo-3/speakmore-promo-3-abbea0ee35ef.mp4"><img src="assets/film-speakmore-0-17.jpg" width="49%" alt="SpeakMore 0.17 film"></a>
+<a href="https://kineto.zephyrxiang.com/renders/speakmore-promo-4/speakmore-promo-4-d01b3f70f5d2.mp4"><img src="assets/film-speakmore-one-month.jpg" width="49%" alt="SpeakMore one-month film"></a>
+<a href="https://kineto.zephyrxiang.com/renders/snug-promo/snug-promo-787c68f0e912.mp4"><img src="assets/film-snug-launch.jpg" width="49%" alt="Snug launch film"></a>
+<a href="https://kineto.zephyrxiang.com/renders/snug-demo/snug-demo-3cfe9fe1f2ea.mp4"><img src="assets/film-snug-demo.jpg" width="49%" alt="Snug live-demo film"></a>
+
+</td>
+<td width="44%" valign="top">
 
 <h3><img src="assets/icons/clapperboard.svg" width="20" height="20" align="absmiddle" alt=""> <a href="https://github.com/zephyr4123/kineto">kineto</a></h3>
 
 [![daily driver](https://img.shields.io/badge/daily_driver-all_my_promo_films-E4405F?style=flat-square)](https://github.com/zephyr4123/kineto)
+[![views](https://img.shields.io/badge/SpeakMore_films-167K%2B_views-F59E0B?style=flat-square)](https://kineto.zephyrxiang.com/renders/speakmore-promo-4/speakmore-promo-4-d01b3f70f5d2.mp4)
 [![release](https://img.shields.io/github/v/release/zephyr4123/kineto?style=flat-square&color=0B84F3)](https://github.com/zephyr4123/kineto/releases)
 
 **Prompt, don't edit.**<br>
@@ -58,7 +92,7 @@ Agent-first video studio · built on Remotion
 - Claude Code / Codex · one CLI
 - Every asset & render on record
 
-<sub><img src="assets/icons/film.svg" width="14" height="14" align="absmiddle" alt=""> Films above: [kineto launch](https://kineto.zephyrxiang.com/renders/kineto-promo/kineto-promo-714bded14437.mp4) · [SpeakMore launch](https://kineto.zephyrxiang.com/renders/speakmore-promo/speakmore-promo-d1ef58b88f15.mp4) · [SpeakMore update](https://kineto.zephyrxiang.com/renders/speakmore-promo-2/speakmore-promo-2-151b9a22c1b0.mp4) · [SpeakMore 0.17](https://kineto.zephyrxiang.com/renders/speakmore-promo-3/speakmore-promo-3-abbea0ee35ef.mp4)</sub>
+<sub><img src="assets/icons/film.svg" width="14" height="14" align="absmiddle" alt=""> Films: [kineto launch](https://kineto.zephyrxiang.com/renders/kineto-promo/kineto-promo-714bded14437.mp4) · [SpeakMore launch](https://kineto.zephyrxiang.com/renders/speakmore-promo/speakmore-promo-d1ef58b88f15.mp4) · [SpeakMore 0.17](https://kineto.zephyrxiang.com/renders/speakmore-promo-3/speakmore-promo-3-abbea0ee35ef.mp4) · [SpeakMore, one month in](https://kineto.zephyrxiang.com/renders/speakmore-promo-4/speakmore-promo-4-d01b3f70f5d2.mp4) · [Snug launch](https://kineto.zephyrxiang.com/renders/snug-promo/snug-promo-787c68f0e912.mp4) · [Snug live demo](https://kineto.zephyrxiang.com/renders/snug-demo/snug-demo-3cfe9fe1f2ea.mp4)</sub>
 
 </td>
 </tr>
@@ -131,8 +165,10 @@ Multi-agent running coach · Keep / Garmin data
 - **[Fact-Guard-Pro](https://github.com/zephyr4123/Fact-Guard-Pro)** — CLI fact-checking agent on LangGraph · human-in-the-loop via Interrupt · Command-based routing
 - **[langgraph-quickstart-chineses](https://github.com/zephyr4123/langgraph-quickstart-chineses)** — Gemini deep-research quickstart on Qwen · fully annotated in Chinese
 - **[zephyr-notes](https://github.com/zephyr4123/zephyr-notes)** — Personal knowledge base · AI · engineering · current studies
+- **[learn-ui](https://github.com/zephyr4123/learn-ui)** — UI course for developers · 9 lessons · UI parts → Apple HIG · real-page critiques
 - **[golive-gallery](https://github.com/zephyr4123/golive-gallery)** — Teaching gallery of demo sites · one per deploy tier: free hosting · tunneling · cloud server + HTTPS
 - **[above-the-wind](https://github.com/zephyr4123/above-the-wind)** — WebGL2 archive of the fourteen 8000m peaks · golden-age first ascents · real SRTM elevation data
+- **[zephyr-picks](https://github.com/zephyr4123/zephyr-picks)** — Tools, fonts & configs I use · Ghostty · Maple Mono · a Claude Code usage mod
 
 </details>
 
@@ -141,6 +177,7 @@ Multi-agent running coach · Keep / Garmin data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)

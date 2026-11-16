@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="92 92 840 840" width="840" height="840">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EDF3FA"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="0.3">
+      <stop offset="0" stop-color="#00EAFF"/>
+      <stop offset="1" stop-color="#0FC4FA"/>
+    </linearGradient>
+    <linearGradient id="tablet" x1="0" y1="0" x2="0.2" y2="1">
+      <stop offset="0" stop-color="#0A7CFF"/>
+      <stop offset="1" stop-color="#0057F0"/>
+    </linearGradient>
+    <clipPath id="screenClip">
+      <rect x="196" y="253" width="500" height="330" rx="52"/>
+    </clipPath>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="125%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#0B2A55" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+
+  <!-- macOS 圆角底板 -->
+  <rect x="100" y="100" width="824" height="824" rx="185" fill="url(#bg)" filter="url(#shadow)"/>
+
+  <!-- 电脑：支架 -->
+  <rect x="426" y="575" width="40" height="60" fill="#14CEFA"/>
+  <rect x="366" y="622" width="160" height="30" rx="15" fill="#14CEFA"/>
+
+  <!-- 电脑：屏幕 -->
+  <rect x="196" y="253" width="500" height="330" rx="52" fill="url(#screen)"/>
+
+  <!-- 平板 -->
+  <rect x="572" y="421" width="256" height="350" rx="44" fill="url(#tablet)"/>
+
+  <!-- 交叠区：两块屏幕对齐的地方 -->
+  <rect x="572" y="421" width="256" height="350" rx="44" fill="#0441F5" clip-path="url(#screenClip)"/>
+</svg>
