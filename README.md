@@ -1,13 +1,13 @@
 # Hi, I'm zephyr 👋
 
-**Multi-agent systems researcher & builder.**<br>
+**Agent memory researcher & builder.**<br>
 **AI-era productivity tools** — built for my own daily use.
 
 - <img src="assets/icons/graduation-cap.svg" width="18" height="18" align="absmiddle" alt=""> **Tianjin University** — Artificial Intelligence · direct-admission MS
-- <img src="assets/icons/microscope.svg" width="18" height="18" align="absmiddle" alt=""> **Research** — Multi-Agent Systems · LLM Orchestration · Social Emergence
+- <img src="assets/icons/microscope.svg" width="18" height="18" align="absmiddle" alt=""> **Research** — Agent Memory · Multi-Agent Systems · LLM Orchestration
 - <img src="assets/icons/zap.svg" width="18" height="18" align="absmiddle" alt=""> **Tools** — Voice Input & Translation · Mac on Your Phone · Agent-Made Video · Automated Research
 - <img src="assets/icons/terminal.svg" width="18" height="18" align="absmiddle" alt=""> **Power User** — <img src="assets/icons/claude-code.svg" width="22" height="14" align="absmiddle" alt=""> Claude Code · <img src="assets/icons/codex.svg" width="18" height="18" align="absmiddle" alt=""> Codex
-- <img src="assets/icons/briefcase.svg" width="18" height="18" align="absmiddle" alt=""> **Technical Advisor** @ Turing Synergy — iOS App Development · Multi-Product Builder · Cutting-Edge Collaboration Models
+- <img src="assets/icons/briefcase.svg" width="18" height="18" align="absmiddle" alt=""> **Technical Advisor** @ Turing Synergy — Full-Stack iOS Apps in Production · Multi-Product Builder · Cutting-Edge Collaboration Models
 - <img src="assets/icons/map-pin.svg" width="18" height="18" align="absmiddle" alt=""> **Based in** Tianjin, China · UTC+8
 
 > <img src="assets/icons/telescope.svg" width="18" height="18" align="absmiddle" alt=""> **Currently** — multi-agent orchestration methodology · end-to-end iOS products
@@ -145,15 +145,15 @@ Multi-agent running coach · Keep / Garmin data
 
 ## <img src="assets/icons/layers.svg" width="22" height="22" align="absmiddle" alt=""> More Projects
 
-**<img src="assets/icons/bot.svg" width="18" height="18" align="absmiddle" alt=""> Multi-Agent Systems**
+**<img src="assets/icons/bot.svg" width="18" height="18" align="absmiddle" alt=""> Agent Memory & Multi-Agent Systems**
 
+- **[memory-ledger](https://github.com/zephyr4123/memory-ledger)** — Provenance-first agent memory on Postgres · append-only typed intents · *as-of* time travel in pure SQL · no embeddings
 - **[Emergenta](https://github.com/zephyr4123/Emergenta)** — Civilization simulator · 1000+ agents · emergent revolutions & information cocoons · LLMs for leaders only · ~99% cheaper than full-LLM
 - **[sololab](https://github.com/zephyr4123/sololab)** — Self-hostable one-person lab · idea → code → paper · hot-pluggable modules
 
 **<img src="assets/icons/wrench.svg" width="18" height="18" align="absmiddle" alt=""> Agent Infrastructure & Dev Tools**
 
 - **[blazecoder](https://github.com/zephyr4123/blazecoder)** — Terminal coding agent · parallel sub-agents · native PDF / Word / Excel / PowerPoint editing · DeepSeek · Kimi · OpenAI
-- **[memory-ledger](https://github.com/zephyr4123/memory-ledger)** — Provenance-first agent memory on Postgres · append-only typed intents · *as-of* time travel in pure SQL · no embeddings
 - **[llm-eval-from-scratch](https://github.com/zephyr4123/llm-eval-from-scratch)** — Offline-first LLM eval harness · local & API models · MMLU / GSM8K · pluggable scorers
 - **[skills-Scaffolding](https://github.com/zephyr4123/skills-Scaffolding)** — Personal Claude Code skill scaffold · one source of truth · plugin marketplace + git symlinks
 
