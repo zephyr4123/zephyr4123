@@ -15,7 +15,7 @@
 
 - <img src="assets/icons/microscope.svg" width="16" height="16" align="absmiddle" alt=""> **Agent memory research**<br>MS student @ Tianjin University
 - <img src="assets/icons/briefcase.svg" width="16" height="16" align="absmiddle" alt=""> **Technical Advisor @ Turing Synergy**<br>Full-stack iOS apps in production
-- <img src="assets/icons/zap.svg" width="16" height="16" align="absmiddle" alt=""> **Open-source tools**<br>Voice input & translation · Mac on your phone · agent-made video · automated research
+- <img src="assets/icons/zap.svg" width="16" height="16" align="absmiddle" alt=""> **Open-source tools**<br>Voice input & translation · Mac on your phone · agent‑made video · automated research
 - <img src="assets/icons/terminal.svg" width="16" height="16" align="absmiddle" alt=""> **Power user**<br><img src="assets/icons/claude-code.svg" width="20" height="13" align="absmiddle" alt=""> Claude Code · <img src="assets/icons/codex.svg" width="16" height="16" align="absmiddle" alt=""> Codex
 - <img src="assets/icons/map-pin.svg" width="16" height="16" align="absmiddle" alt=""> **Tianjin, China** · UTC+8
 
