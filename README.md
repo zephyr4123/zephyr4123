@@ -3,12 +3,36 @@
 **Agent memory researcher & builder.**<br>
 **AI-era productivity tools** — built for my own daily use.
 
-- <img src="assets/icons/graduation-cap.svg" width="18" height="18" align="absmiddle" alt=""> **Tianjin University** — Artificial Intelligence · direct-admission MS
-- <img src="assets/icons/microscope.svg" width="18" height="18" align="absmiddle" alt=""> **Research** — Agent Memory · Multi-Agent Systems · LLM Orchestration
-- <img src="assets/icons/zap.svg" width="18" height="18" align="absmiddle" alt=""> **Tools** — Voice Input & Translation · Mac on Your Phone · Agent-Made Video · Automated Research
-- <img src="assets/icons/terminal.svg" width="18" height="18" align="absmiddle" alt=""> **Power User** — <img src="assets/icons/claude-code.svg" width="22" height="14" align="absmiddle" alt=""> Claude Code · <img src="assets/icons/codex.svg" width="18" height="18" align="absmiddle" alt=""> Codex
-- <img src="assets/icons/briefcase.svg" width="18" height="18" align="absmiddle" alt=""> **Technical Advisor** @ Turing Synergy — Full-Stack iOS Apps in Production · Multi-Product Builder · Cutting-Edge Collaboration Models
-- <img src="assets/icons/map-pin.svg" width="18" height="18" align="absmiddle" alt=""> **Based in** Tianjin, China · UTC+8
+[![total stars](https://img.shields.io/github/stars/zephyr4123?affiliations=OWNER&style=flat-square&logo=github&logoColor=white&label=total%20stars&color=EAB308)](https://github.com/zephyr4123?tab=repositories&sort=stargazers)
+![app downloads](https://img.shields.io/badge/app_downloads-1.7K%2B-10B981?style=flat-square)
+![film views](https://img.shields.io/badge/film_views-167K%2B-F59E0B?style=flat-square)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**<img src="assets/icons/activity.svg" width="18" height="18" align="absmiddle" alt=""> Now**
+
+- <img src="assets/icons/microscope.svg" width="16" height="16" align="absmiddle" alt=""> **Agent memory research**<br>MS student @ Tianjin University
+- <img src="assets/icons/briefcase.svg" width="16" height="16" align="absmiddle" alt=""> **Technical Advisor @ Turing Synergy**<br>Full-stack iOS apps in production
+- <img src="assets/icons/zap.svg" width="16" height="16" align="absmiddle" alt=""> **Open-source tools**<br>Voice input & translation · Mac on your phone · agent-made video · automated research
+- <img src="assets/icons/terminal.svg" width="16" height="16" align="absmiddle" alt=""> **Power user**<br><img src="assets/icons/claude-code.svg" width="20" height="13" align="absmiddle" alt=""> Claude Code · <img src="assets/icons/codex.svg" width="16" height="16" align="absmiddle" alt=""> Codex
+- <img src="assets/icons/map-pin.svg" width="16" height="16" align="absmiddle" alt=""> **Tianjin, China** · UTC+8
+
+</td>
+<td width="50%" valign="top">
+
+**<img src="assets/icons/history.svg" width="18" height="18" align="absmiddle" alt=""> Background**
+
+- <img src="assets/icons/graduation-cap.svg" width="16" height="16" align="absmiddle" alt=""> **Tianjin University**<br>MS, AI · direct admission · 2026 – now<br>BS, AI · 2022 – 2026
+- <img src="assets/icons/stethoscope.svg" width="16" height="16" align="absmiddle" alt=""> **LLM App Dev Intern @ DeZhiShang Medical**<br>Graph RAG · 100+ DAU support bot · 8-GPU vLLM
+- <img src="assets/icons/trophy.svg" width="16" height="16" align="absmiddle" alt=""> **Douyin AI Creator Hackathon 2026**<br>National top 10 in track · 1st at Shenzhen station
+- <img src="assets/icons/medal.svg" width="16" height="16" align="absmiddle" alt=""> **LLM Badcase Challenge**<br>China Digital Summit · national 3rd · second prize
+- <img src="assets/icons/award.svg" width="16" height="16" align="absmiddle" alt=""> **Provincial First-Class Scholarship**
+
+</td>
+</tr>
+</table>
 
 > <img src="assets/icons/telescope.svg" width="18" height="18" align="absmiddle" alt=""> **Currently** — multi-agent orchestration methodology · end-to-end iOS products
 
