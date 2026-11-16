@@ -5,7 +5,7 @@
 
 [![total stars](https://img.shields.io/github/stars/zephyr4123?affiliations=OWNER&style=flat-square&logo=github&logoColor=white&label=total%20stars&color=EAB308)](https://github.com/zephyr4123?tab=repositories&sort=stargazers)
 ![app downloads](https://img.shields.io/badge/app_downloads-1.7K%2B-10B981?style=flat-square)
-![film views](https://img.shields.io/badge/film_views-167K%2B-F59E0B?style=flat-square)
+![film views](https://img.shields.io/badge/film_views-204K%2B-F59E0B?style=flat-square)
 
 <table>
 <tr>
@@ -106,7 +106,7 @@ Mac menu-bar app · built for UU Remote
 <h3><img src="assets/icons/clapperboard.svg" width="20" height="20" align="absmiddle" alt=""> <a href="https://github.com/zephyr4123/kineto">kineto</a></h3>
 
 [![daily driver](https://img.shields.io/badge/daily_driver-all_my_promo_films-E4405F?style=flat-square)](https://github.com/zephyr4123/kineto)
-[![views](https://img.shields.io/badge/SpeakMore_films-167K%2B_views-F59E0B?style=flat-square)](https://kineto.zephyrxiang.com/renders/speakmore-promo-4/speakmore-promo-4-d01b3f70f5d2.mp4)
+[![views](https://img.shields.io/badge/films-204K%2B_views-F59E0B?style=flat-square)](https://github.com/zephyr4123/kineto)
 [![release](https://img.shields.io/github/v/release/zephyr4123/kineto?style=flat-square&color=0B84F3)](https://github.com/zephyr4123/kineto/releases)
 
 **Prompt, don't edit.**<br>
