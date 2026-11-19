@@ -1,42 +1,45 @@
 # Hi, I'm zephyr 👋
 
-**Agent memory researcher & builder.**<br>
+**Agent memory researcher & builder** — MS student at Tianjin University.<br>
 **AI-era productivity tools** — built for my own daily use.
 
 [![total stars](https://img.shields.io/github/stars/zephyr4123?affiliations=OWNER&style=flat-square&logo=github&logoColor=white&label=total%20stars&color=EAB308)](https://github.com/zephyr4123?tab=repositories&sort=stargazers)
-![app downloads](https://img.shields.io/badge/app_downloads-1.7K%2B-10B981?style=flat-square)
+![app downloads](https://img.shields.io/badge/app_downloads-3.3K%2B-10B981?style=flat-square)
 ![film views](https://img.shields.io/badge/film_views-204K%2B-F59E0B?style=flat-square)
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**<img src="assets/icons/activity.svg" width="18" height="18" align="absmiddle" alt=""> Now**
-
-- <img src="assets/icons/microscope.svg" width="16" height="16" align="absmiddle" alt=""> **Agent memory research**<br>MS student @ Tianjin University
-- <img src="assets/icons/briefcase.svg" width="16" height="16" align="absmiddle" alt=""> **Technical Advisor @ Turing Synergy**<br>Full-stack iOS apps in production
-- <img src="assets/icons/zap.svg" width="16" height="16" align="absmiddle" alt=""> **Open-source tools**<br>Voice input & translation · Mac on your phone · agent‑made video · automated research
-- <img src="assets/icons/terminal.svg" width="16" height="16" align="absmiddle" alt=""> **Power user**<br><img src="assets/icons/claude-code.svg" width="20" height="13" align="absmiddle" alt=""> Claude Code · <img src="assets/icons/codex.svg" width="16" height="16" align="absmiddle" alt=""> Codex
-- <img src="assets/icons/map-pin.svg" width="16" height="16" align="absmiddle" alt=""> **Tianjin, China** · UTC+8
-
-</td>
-<td width="50%" valign="top">
-
-**<img src="assets/icons/history.svg" width="18" height="18" align="absmiddle" alt=""> Background**
-
-- <img src="assets/icons/graduation-cap.svg" width="16" height="16" align="absmiddle" alt=""> **Tianjin University**<br>MS, AI · direct admission · 2026 – now<br>BS, AI · 2022 – 2026
-- <img src="assets/icons/stethoscope.svg" width="16" height="16" align="absmiddle" alt=""> **LLM App Dev Intern @ DeZhiShang Medical**<br>Graph RAG · 100+ DAU support bot · 8-GPU vLLM
-- <img src="assets/icons/trophy.svg" width="16" height="16" align="absmiddle" alt=""> **Douyin AI Creator Hackathon 2026**<br>National top 10 in track · 1st at Shenzhen station
-- <img src="assets/icons/medal.svg" width="16" height="16" align="absmiddle" alt=""> **LLM Badcase Challenge**<br>China Digital Summit · national 3rd · second prize
-- <img src="assets/icons/award.svg" width="16" height="16" align="absmiddle" alt=""> **Provincial First-Class Scholarship**
-
-</td>
-</tr>
-</table>
 
 > <img src="assets/icons/telescope.svg" width="18" height="18" align="absmiddle" alt=""> **Currently** — multi-agent orchestration methodology · end-to-end iOS products
 
 ## <img src="assets/icons/star.svg" width="22" height="22" align="absmiddle" alt=""> Flagship Projects
+
+<table>
+<tr>
+<td width="58%" valign="middle">
+
+<a href="https://github.com/zephyr4123/snug"><img src="assets/snug-showcase.webp" width="100%" alt="UU Remote alone shrinks the desktop into a strip; with Snug, a terminal and the App Library fill the phone"></a>
+
+</td>
+<td width="42%" valign="top">
+
+<h3><img src="assets/icons/snug.svg" width="22" height="22" align="absmiddle" alt=""> <a href="https://github.com/zephyr4123/snug">Snug</a></h3>
+
+<img src="assets/icons/rocket.svg" width="16" height="16" align="absmiddle" alt=""> **1K stars in 6 days**
+
+[![stars](https://img.shields.io/github/stars/zephyr4123/snug?style=flat-square&logo=github&logoColor=white&label=stars&color=EAB308)](https://github.com/zephyr4123/snug/stargazers)
+[![forks](https://img.shields.io/github/forks/zephyr4123/snug?style=flat-square&logo=github&logoColor=white&label=forks&color=8B5CF6)](https://github.com/zephyr4123/snug/forks)
+[![downloads](https://img.shields.io/badge/downloads-2.5K%2B-10B981?style=flat-square)](https://github.com/zephyr4123/snug/releases/latest)
+
+**Your Mac, native on any device.**<br>
+Mac menu-bar app · built for UU Remote
+
+- **Phone & tablet** · touch-native
+- **Computer** · no black bars
+- **Claude Code / Codex** · anywhere
+
+<sub><img src="assets/icons/git-fork.svg" width="14" height="14" align="absmiddle" alt=""> Continues [UUyc-companion](https://github.com/aoyamashou/UUyc-companion) by AoyamaShou</sub>
+
+</td>
+</tr>
+</table>
 
 ### <img src="assets/icons/zap.svg" width="20" height="20" align="absmiddle" alt=""> AI Productivity · tools I use daily
 
@@ -65,43 +68,12 @@ Free & open source · Mac & Windows apps
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/zephyr4123/snug"><img src="assets/snug-showcase.webp" width="100%" alt="UU Remote alone shrinks the desktop into a strip; with Snug, a terminal and the App Library fill the phone"></a>
-
-<h3><img src="assets/icons/snug.svg" width="22" height="22" align="absmiddle" alt=""> <a href="https://github.com/zephyr4123/snug">Snug</a></h3>
-
-<img src="assets/icons/rocket.svg" width="16" height="16" align="absmiddle" alt=""> **Launched Nov 2026 · 11 releases in 4 days**
-
-[![stars](https://img.shields.io/github/stars/zephyr4123/snug?style=flat-square&logo=github&logoColor=white&label=stars&color=EAB308)](https://github.com/zephyr4123/snug/stargazers)
-[![forks](https://img.shields.io/github/forks/zephyr4123/snug?style=flat-square&logo=github&logoColor=white&label=forks&color=8B5CF6)](https://github.com/zephyr4123/snug/forks)
-[![downloads](https://img.shields.io/badge/downloads-950%2B-10B981?style=flat-square)](https://github.com/zephyr4123/snug/releases/latest)
-
-**Your Mac, native on your phone.**<br>
-Mac menu-bar app · built for UU Remote
-
-- Portrait screen · windows fill the phone
-- iOS gestures · scroll, select, long-press
-- Claude Code / Codex · your own terminal
-- Any phone · 800 models, 17 brands
-
-<sub><img src="assets/icons/git-fork.svg" width="14" height="14" align="absmiddle" alt=""> Continues [UUyc-companion](https://github.com/aoyamashou/UUyc-companion) by AoyamaShou</sub>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="56%" valign="top">
-
-<a href="https://kineto.zephyrxiang.com/renders/kineto-promo/kineto-promo-714bded14437.mp4"><img src="assets/film-kineto-launch.jpg" width="49%" alt="kineto launch film"></a>
+<a href="https://kineto.zephyrxiang.com/renders/snug-promo/snug-promo-787c68f0e912.mp4"><img src="assets/film-snug-launch.jpg" width="49%" alt="Snug launch film"></a>
+<a href="https://kineto.zephyrxiang.com/renders/snug-demo/snug-demo-3cfe9fe1f2ea.mp4"><img src="assets/film-snug-demo.jpg" width="49%" alt="Snug live-demo film"></a>
 <a href="https://kineto.zephyrxiang.com/renders/speakmore-promo/speakmore-promo-d1ef58b88f15.mp4"><img src="assets/film-speakmore-launch.jpg" width="49%" alt="SpeakMore launch film"></a>
 <a href="https://kineto.zephyrxiang.com/renders/speakmore-promo-3/speakmore-promo-3-abbea0ee35ef.mp4"><img src="assets/film-speakmore-0-17.jpg" width="49%" alt="SpeakMore 0.17 film"></a>
 <a href="https://kineto.zephyrxiang.com/renders/speakmore-promo-4/speakmore-promo-4-d01b3f70f5d2.mp4"><img src="assets/film-speakmore-one-month.jpg" width="49%" alt="SpeakMore one-month film"></a>
-<a href="https://kineto.zephyrxiang.com/renders/snug-promo/snug-promo-787c68f0e912.mp4"><img src="assets/film-snug-launch.jpg" width="49%" alt="Snug launch film"></a>
-<a href="https://kineto.zephyrxiang.com/renders/snug-demo/snug-demo-3cfe9fe1f2ea.mp4"><img src="assets/film-snug-demo.jpg" width="49%" alt="Snug live-demo film"></a>
-
-</td>
-<td width="44%" valign="top">
+<a href="https://kineto.zephyrxiang.com/renders/kineto-promo/kineto-promo-714bded14437.mp4"><img src="assets/film-kineto-launch.jpg" width="49%" alt="kineto launch film"></a>
 
 <h3><img src="assets/icons/clapperboard.svg" width="20" height="20" align="absmiddle" alt=""> <a href="https://github.com/zephyr4123/kineto">kineto</a></h3>
 
@@ -115,8 +87,6 @@ Agent-first video studio · built on Remotion
 - Plain words in · real MP4 out
 - Claude Code / Codex · one CLI
 - Every asset & render on record
-
-<sub><img src="assets/icons/film.svg" width="14" height="14" align="absmiddle" alt=""> Films: [kineto launch](https://kineto.zephyrxiang.com/renders/kineto-promo/kineto-promo-714bded14437.mp4) · [SpeakMore launch](https://kineto.zephyrxiang.com/renders/speakmore-promo/speakmore-promo-d1ef58b88f15.mp4) · [SpeakMore 0.17](https://kineto.zephyrxiang.com/renders/speakmore-promo-3/speakmore-promo-3-abbea0ee35ef.mp4) · [SpeakMore, one month in](https://kineto.zephyrxiang.com/renders/speakmore-promo-4/speakmore-promo-4-d01b3f70f5d2.mp4) · [Snug launch](https://kineto.zephyrxiang.com/renders/snug-promo/snug-promo-787c68f0e912.mp4) · [Snug live demo](https://kineto.zephyrxiang.com/renders/snug-demo/snug-demo-3cfe9fe1f2ea.mp4)</sub>
 
 </td>
 </tr>
