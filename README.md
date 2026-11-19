@@ -4,7 +4,7 @@
 **AI-era productivity tools** — built for my own daily use.
 
 [![total stars](https://img.shields.io/github/stars/zephyr4123?affiliations=OWNER&style=flat-square&logo=github&logoColor=white&label=total%20stars&color=EAB308)](https://github.com/zephyr4123?tab=repositories&sort=stargazers)
-![app downloads](https://img.shields.io/badge/app_downloads-3.3K%2B-10B981?style=flat-square)
+![app downloads](https://img.shields.io/badge/app_downloads-3.7K%2B-10B981?style=flat-square)
 ![film views](https://img.shields.io/badge/film_views-204K%2B-F59E0B?style=flat-square)
 
 > <img src="assets/icons/telescope.svg" width="18" height="18" align="absmiddle" alt=""> **Currently** — multi-agent orchestration methodology · end-to-end iOS products
@@ -26,7 +26,7 @@
 
 [![stars](https://img.shields.io/github/stars/zephyr4123/snug?style=flat-square&logo=github&logoColor=white&label=stars&color=EAB308)](https://github.com/zephyr4123/snug/stargazers)
 [![forks](https://img.shields.io/github/forks/zephyr4123/snug?style=flat-square&logo=github&logoColor=white&label=forks&color=8B5CF6)](https://github.com/zephyr4123/snug/forks)
-[![downloads](https://img.shields.io/badge/downloads-2.5K%2B-10B981?style=flat-square)](https://github.com/zephyr4123/snug/releases/latest)
+[![downloads](https://img.shields.io/badge/downloads-2.9K%2B-10B981?style=flat-square)](https://github.com/zephyr4123/snug/releases/latest)
 
 **Your Mac, native on any device.**<br>
 Mac menu-bar app · built for UU Remote
@@ -55,7 +55,7 @@ Mac menu-bar app · built for UU Remote
 
 [![stars](https://img.shields.io/github/stars/zephyr4123/speakmore?style=flat-square&logo=github&logoColor=white&label=stars&color=EAB308)](https://github.com/zephyr4123/speakmore/stargazers)
 [![forks](https://img.shields.io/github/forks/zephyr4123/speakmore?style=flat-square&logo=github&logoColor=white&label=forks&color=8B5CF6)](https://github.com/zephyr4123/speakmore/forks)
-[![downloads](https://img.shields.io/badge/downloads-820%2B-10B981?style=flat-square)](https://speakmore.zephyrxiang.com)
+[![downloads](https://img.shields.io/badge/downloads-840%2B-10B981?style=flat-square)](https://speakmore.zephyrxiang.com)
 
 **Speak it written. Select to translate.**<br>
 Free & open source · Mac & Windows apps
